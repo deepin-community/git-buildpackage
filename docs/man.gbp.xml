@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
-                   "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+                   "/usr/share/sgml/docbook/sgml-dtd-4.5/docbook.dtd" [
   <!ENTITY % COMMON SYSTEM "common.ent">
   %COMMON;
   <!ENTITY % MANPAGES SYSTEM "manpages/manpages.ent">

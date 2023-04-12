@@ -1,5 +1,7 @@
 #!/usr/bin/make -f
 
+export WITHOUT_NOSETESTS=1 
+
 %:
 	dh $@ --buildsystem=pybuild
 

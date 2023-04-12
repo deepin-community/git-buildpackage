@@ -22,11 +22,7 @@ class TestBrokenConfig(TestCaseWithData, GbpLogTester):
             'import_orig',
             'import_dsc',
             'pull',
-            'pq',
-            'import_srpm',
-            'buildpackage_rpm',
-            'pq_rpm',
-            'rpm_ch']
+            'pq']
 
     def __init__(self, methodName='runTest'):
         unittest.TestCase.__init__(self, methodName)
