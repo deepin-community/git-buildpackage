@@ -1,3 +1,10 @@
+git-buildpackage (0.9.30+deepin1) unstable; urgency=medium
+
+  [ hudeng-go ]
+  * chore: remove rpm and prisine-tar support at deepin beige
+
+ -- Deepin Packages Builder <packages@deepin.org>  Tue, 11 Apr 2023 14:19:36 +0800
+
 git-buildpackage (0.9.30) unstable; urgency=medium
 
   * [f102dca] examples: Add upload script
